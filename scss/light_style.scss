@@ -17,14 +17,12 @@ body {
     width: 360px;
     display: flex;
     justify-content: center;
-    // border: 1px solid red;
     background-color: #fff;
 }
 
 .main {
     &__style {
         width: 312px;
-        // border: 1px solid;
     }
 }
 
@@ -47,7 +45,6 @@ body {
             margin-bottom: 35px;
         }
     }
-    // .fotos__items
     &__items {
         display: flex;
         flex-direction: column;
@@ -90,7 +87,6 @@ body {
 }
 
 .img {
-    // .img__left-radius
     &__left-radius {
         border-radius: 150px 0 0 0;
     }
